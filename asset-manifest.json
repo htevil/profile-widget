@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile-widget/static/css/main.3b8b1109.css",
+    "main.js": "/profile-widget/static/js/main.97656b2d.js",
+    "static/js/453.7f5278a0.chunk.js": "/profile-widget/static/js/453.7f5278a0.chunk.js",
+    "static/media/levi-guzman-wF5z4_JzxaU-unsplash.jpg": "/profile-widget/static/media/levi-guzman-wF5z4_JzxaU-unsplash.97aaddd16f6f2b8bddb3.jpg",
+    "static/media/pexels-introspectivedsgn-4066147.jpg": "/profile-widget/static/media/pexels-introspectivedsgn-4066147.c0b47a8f9ee8730224da.jpg",
+    "static/media/cpwfgw26cjbd1.jpeg": "/profile-widget/static/media/cpwfgw26cjbd1.ef50f9010ac9e0555b15.jpeg",
+    "static/media/55497.jpg": "/profile-widget/static/media/55497.db565bb2d75d362f6b8a.jpg",
+    "static/media/pexels-valdemaras-d-784301-1687678.jpg": "/profile-widget/static/media/pexels-valdemaras-d-784301-1687678.c7fc8f7511ef82f8fdcb.jpg",
+    "static/media/219256.jpg": "/profile-widget/static/media/219256.3d890eccb42e3e7ab4cc.jpg",
+    "static/media/tally.svg": "/profile-widget/static/media/tally.a23e407efcaae9adbbe619036f279975.svg",
+    "index.html": "/profile-widget/index.html",
+    "static/media/interrogation.svg": "/profile-widget/static/media/interrogation.2d7ee57d502a9a79aae865d69069cdb7.svg",
+    "static/media/horizontal-rule.svg": "/profile-widget/static/media/horizontal-rule.96daaff535c9c7a30c3c18e3a6a38ac4.svg",
+    "main.3b8b1109.css.map": "/profile-widget/static/css/main.3b8b1109.css.map",
+    "main.97656b2d.js.map": "/profile-widget/static/js/main.97656b2d.js.map",
+    "453.7f5278a0.chunk.js.map": "/profile-widget/static/js/453.7f5278a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8b1109.css",
+    "static/js/main.97656b2d.js"
+  ]
+}
